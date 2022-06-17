@@ -1,0 +1,29 @@
+body {
+  background-color:skyblue ;
+}
+
+.style-input {
+  width: 30%;
+  padding: 5px 0px;
+  margin: 0px 0;
+  box-sizing: border-box;
+}
+#survey-form {
+  position: centre;
+  margin: auto;
+  width: 50%;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 12px 10px #888888;
+  border: black 5px solid;
+  padding: 10px;
+  background-color: lightblue;
+ 
+}
+#description{
+   text-align: center;
+   font-size: 30px;
+}
+#title{
+    text-align: center;
+   font-size: 50px;
+}
